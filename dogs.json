@@ -1,5 +1,6 @@
 [
 {
+	"id" : 1,
 	“name”: “German Shepherd”,
 	“img”: “Shepherd”,
 	“origin”: “Germany”,
@@ -7,6 +8,7 @@
 	“height”: “60-65CM”
 },
 {
+	"id" : 1,
 	“name”: “Bulldog”,
 	“img”: “Bulldog”,
 	“origin”: “England”,
