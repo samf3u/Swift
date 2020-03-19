@@ -1,0 +1,16 @@
+[
+{
+	“name”: “German Shepherd”
+	“img”: “Shepherd”
+	“origin”: “Germany”
+	“weight”: “10-40KG”
+	“height”: “60-65CM”
+},
+{
+	“name”: “Bulldog”
+	“img”: “Bulldog”
+	“origin”: “England”
+	“weight”: “50-60KG”
+	“height”: “61-69CM”
+},
+]
